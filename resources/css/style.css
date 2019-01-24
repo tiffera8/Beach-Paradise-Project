@@ -1,0 +1,11 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+.beaches {
+  color: DarkGreen;
+}
+
+.bahia h3, .selange h3, .hunt h3, .moat h3 {
+  color: seagreen;
+}
